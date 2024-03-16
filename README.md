@@ -11,6 +11,7 @@ cd Test11
 ```
 ```bash
  chmod +x MaJiDcT.sh
+```
 ```bash
 ./MaJiDcT.sh
 ```
