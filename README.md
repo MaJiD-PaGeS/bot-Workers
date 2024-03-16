@@ -10,7 +10,7 @@
 cd Test11
 ```
 ```bash
- chmod +x MaJiDcT.sh
+chmod +x MaJiDcT.sh
 ```
 ```bash
 ./MaJiDcT.sh
@@ -19,10 +19,10 @@ cd Test11
 python3 vpnct.py
 ```
 ```bash
- python3 install.py
+python3 install.py
  ```
 ```bash
- python3 MaJiD.py
+python3 MaJiD.py
  ```
 ```bash
 server=="cloudflare" && port=="443" && country=="NL" && city=="Amsterdam"
