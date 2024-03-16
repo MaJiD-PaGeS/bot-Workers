@@ -7,7 +7,7 @@
   ```
 
 ```bash
-cd Test11
+cd bot-Workers
 ```
 ```bash
 chmod +x MaJiDcT.sh
