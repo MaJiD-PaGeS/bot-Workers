@@ -3,7 +3,7 @@
 مراحل نصب
 
 ```bash
- git clone https://github.com/MaJiD-PaGeS/Test11.git
+ git clone https://github.com/MaJiD-PaGeS/bot-Workers.git
   ```
 
 ```bash
@@ -11,22 +11,18 @@ cd Test11
 ```
 ```bash
  chmod +x MaJiDcT.sh
-
+```bash
 ./MaJiDcT.sh
- 
 ```
 ```bash
 python3 vpnct.py
 ```
-
 ```bash
  python3 install.py
  ```
-
- ```bash
+```bash
  python3 MaJiD.py
  ```
-
 ```bash
 server=="cloudflare" && port=="443" && country=="NL" && city=="Amsterdam"
 ```
