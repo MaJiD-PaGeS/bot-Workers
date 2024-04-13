@@ -22,5 +22,5 @@ with open('workertemp.txt', 'w') as file:
         file.write(line)
 
 print("✅ Environment Variables and Workertemp Updated. ✅")
-print("🔰 Now You Can Start CFW Bot 🔰")
+print("🔰 Now You Can Start bot-Workers 🔰")
 print("✌️ Rise UP and Fight For Freedom ✌️")
