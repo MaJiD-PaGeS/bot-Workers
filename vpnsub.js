@@ -47,7 +47,7 @@ let proxyhosts = [//本地代理域名池
 let proxyhostsURL = 'https://raw.githubusercontent.com/MaJiD-PaGeS/sub-ip/main/proxyhosts';//在线代理域名池URL
 let EndPS = '';//节点名备注内容
 
-let FileName = 'WorkerVless2sub';
+let FileName = 'bot-Workers';
 let SUBUpdateTime = 6; 
 let total = 99;//PB
 //let timestamp = now;
